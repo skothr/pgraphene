@@ -6,5 +6,5 @@ Rewrite of skothr/graphene
 
 ## Goals
 
-- Simplify framework: Make it more flexible, improve modularity
+- Simplify framework -- improve modularity and flexibility
 - Minimize reliance on external libraries
